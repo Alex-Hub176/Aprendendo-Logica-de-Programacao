@@ -8,13 +8,13 @@ while True:
         usuario = str(input("Digite, Par ou Impar [P/I] ")).strip().lower()[0]
         print('----'*10)
     soma = computador + valor
-    print(f"Voçe jogou {valor}, e o computador jogou {computador}. Total foi {soma}, Deu",'Par' if soma % 2 == 0 else 'Impar')
+    print(f"Você jogou {valor}, e o computador jogou {computador}. Total foi {soma}, Deu",'Par' if soma % 2 == 0 else 'Impar')
     print('-----'*10)
     if usuario == 'p' and soma % 2 == 0:
-        print("Voce Venceu!!")
+        print("Você Venceu!!")
     if usuario == 'i' and soma % 2 == 1:
-        print("Voçe Venceu")
+        print("Você Venceu!!")
     else:
-        print("O computador venceu ")
+        print("O computador venceu")
         break
     print('-=-'*10) 
