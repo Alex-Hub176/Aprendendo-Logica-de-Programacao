@@ -13,6 +13,13 @@ Programas simples usando:
 - Cálculos
 - Operações básicas
 
+### Variáveis-Compostas
+Programas simples usando:
+- Tuplas
+- Listas
+- Dicionários
+
+
 
 
 --- Repositório de estudos — códigos simples fazem parte do aprendizado.
