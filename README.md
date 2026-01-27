@@ -19,7 +19,9 @@ Programas simples usando:
 - Listas
 - Dicionários
 
-
+### Funções
+Programas simples utilizando:
+- Função
 
 
 --- Repositório de estudos — códigos simples fazem parte do aprendizado.
