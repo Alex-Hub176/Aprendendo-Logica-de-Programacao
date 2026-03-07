@@ -1,27 +1,27 @@
 # Aprendendo Lógica de Programação
-Este repositorio contém exercicios e pequenos projetos feitos durante meus estudos de lógica de programação com Python.
 
-O obejetivo é praticar o básico, melhorar a lógica e acompanhar minha evolução como Dev.
+Este repositório contém exercícios e práticas enquanto estudo lógica de programação e Python.
 
-----
+## Objetivo
+Desenvolver pensamento lógico e resolução de problemas utilizando programação.
 
-## 📁 Estrutura do repositório
+## Conteúdos praticados
+- Variáveis
+- Condicionais
+- Estruturas de repetição
+- Funções
+- Exercícios de lógica
 
-### python-basico
-Programas simples usando:
-- Entrada e saída de dados
-- Cálculos
-- Operações básicas
+## Tecnologias
+- Python
+- Git
+- GitHub
 
-### Variáveis-Compostas
-Programas simples usando:
-- Tuplas
-- Listas
-- Dicionários
-
-### Funções
-Programas simples utilizando:
-- Função
-
+## Status
+📚 Em aprendizado contínuo
 
 --- Repositório de estudos — códigos simples fazem parte do aprendizado.
+
+Autor
+
+Alex S.
